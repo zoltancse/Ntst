@@ -1,0 +1,8 @@
+cmhpdcw001.netsmartcloud.lan
+cmhpdcw002.netsmartcloud.lan
+cmhpdcw003.netsmartcloud.lan
+cmhpdcw004.netsmartcloud.lan
+cmhpdcw005.netsmartcloud.lan
+cmhpdcw006.netsmartcloud.lan
+cmhpdcw007.netsmartcloud.lan
+cmhpdcw008.netsmartcloud.lan
